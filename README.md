@@ -1,4 +1,4 @@
 Game of Matches
 =============
 
-To run this project, you must install Pygame http://www.pygame.org/download.shtml
+You have to install Pygame http://www.pygame.org/download.shtml to run this game.
